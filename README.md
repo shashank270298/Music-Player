@@ -1,4 +1,4 @@
-# A music player developed in Python.
+# MUSIC PLAYER.
 
 # Language Used : Python
 # Database Used : Oracle
