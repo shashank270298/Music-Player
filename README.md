@@ -9,4 +9,5 @@
 # The user can also retrive these favorite songs from the database in the music player list directly.
 # They first need to add songs in the music player list.
 # Afer adding songs they can now play these songs.
+# GUI programming is used to create interactive interface.
 # Multithreading is used to sync timer of the song with progress bar. 
